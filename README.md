@@ -15,7 +15,7 @@ Initial use case was to convert 300ppi (PDF) documents (grayscale or colored) to
 E.g. a PDF document with 300ppi and about 3-4MB in grayscale can be reduced to about 40-75KB(!) in monochrome.
 
 ```diff
-- Warning: This app is in early development and may not work as expected or at all due some refactorings.
+- This app development has been stopped and ported to Crystal Lang: https://github.com/magynhard/goblin-converter
 ```
 
 # Setup
